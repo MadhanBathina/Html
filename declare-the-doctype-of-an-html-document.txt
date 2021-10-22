@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <h1>
+    Man with mechanical background can learn code and place in any IT company
+  </h1>
+</html>
